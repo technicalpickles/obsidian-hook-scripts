@@ -1,6 +1,6 @@
 # obsidian-hook-scripts
 
-For making [Hook]() aware of the current document in [Obsidian]() so you can link docs to and from it.
+For making [Hook](https://hookproductivity.com/) aware of the current document in [Obsidian](https://obsidian.md) so you can link docs to and from it.
 
 
 ## Setup
